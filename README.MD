@@ -37,10 +37,15 @@ Some links of Popular Online Judges are :
 ## First Year Second Semester
 
 - Learn Data Structure and Algorithms
+
+
   ![DSA](assets/DSA.png)
 
 * Explore stuffs :
+
+
   ![Basic Things](assets/basic_stuffs.png)
+
 
 - Desktop Game :
 
@@ -54,6 +59,8 @@ Some links of Popular Online Judges are :
   **If you like competitive programming and problem solving, then keep solving and ranking up ,take participate in contests**
 
 - Learn Things for Software Engineering
+
+
   ![2nd Year](assets/2nd_yr.png)
 
 
@@ -74,6 +81,8 @@ Some links of Popular Online Judges are :
 ## Here are some starting guidelines for the following sectors :
 
 - ### Mobile Application Development:
+
+
     ![](assets/Mobile_dev.png)
 
     **Note:To learn more visit [Anroid](https://roadmap.sh/android)**
@@ -81,20 +90,30 @@ Some links of Popular Online Judges are :
     
 
 - ### Desktop Application Development:
+
+
     ![](assets/Desktop_dev.png)
 
+
+
 - ### Web Application Development:
+
+
     ![](assets/Web_dev.png)
 
     **Note:To learn more visit [Frontend Developer](https://roadmap.sh/frontend) | [Backend Developer](https://roadmap.sh/backend)**
 
 
 - ### Game Development:
+
+
     ![](assets/Game_dev.png)
 
     **Note:To learn more visit [Game-Developer-Roadmap](https://github.com/utilForever/game-developer-roadmap)**
 
 - ### Data Science:
+
+
     ![](assets/DS.png)
 
     **Note : The are some online judges where they arrange ML contests:**
@@ -103,6 +122,8 @@ Some links of Popular Online Judges are :
 
 
 - ### Others (to be added) :
+
+
     ![](assets/others.png)
 
   **Note:To learn more about DevOps visit [DevOps Roadmap](https://roadmap.sh/devops)**
