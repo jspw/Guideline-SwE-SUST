@@ -1,8 +1,6 @@
-![](assets/logo.png)
+# Software Engineering,SUST!
 
-> Software Engineering Guideline,  Instpired by [web-developer-roadmap.](https://github.com/kamranahmedse/developer-roadmap)
-
-We are studying Software Engineering or Related subjects but some of us don't know what we are studying or don't have a guideline or don't know how vast the Software Engineering or IT sector is or We just don't know which path we should choose. **Forget choosing path , even we don't know what are the options!**
+We are studying Software Engineering or Related subjects but most of us don't know what we are studying or don't have a guideline or don't know how vast the Software Engineering or IT sector is or We just don't know which path we should choose. **Forget choosing path , even we don't know what are the options!**
 So I have tried to give some informations and introduce with terminologies which are related to Software Engineering and IT and can help to know our options and choose them properly!
 
 It's not a roadmap which you should follow and will make you GOD in IT sector. It will just show you some stuffs that can help you to choose your path! I have just use the terms and basic stuffs so that you can google them :p
@@ -71,14 +69,10 @@ Some links of Popular Online Judges are :
 
 
 
-## Here are some starting guidelines for the following sectors :
+## Here are some starting guidelines :
 
 - ### Mobile Application Development:
     ![](assets/Mobile_dev.png)
-
-    **Note:To learn more visit [Anroid](https://roadmap.sh/android)**
-
-    
 
 - ### Desktop Application Development:
     ![](assets/Desktop_dev.png)
@@ -86,13 +80,9 @@ Some links of Popular Online Judges are :
 - ### Web Application Development:
     ![](assets/Web_dev.png)
 
-    **Note:To learn more visit [Frontend Developer](https://roadmap.sh/frontend) | [Backend Developer](https://roadmap.sh/backend)**
-
 
 - ### Game Development:
     ![](assets/Game_dev.png)
-
-    **Note:To learn more visit [Game-Developer-Roadmap](https://github.com/utilForever/game-developer-roadmap)**
 
 - ### Data Science:
     ![](assets/DS.png)
@@ -105,7 +95,6 @@ Some links of Popular Online Judges are :
 - ### Others (to be added) :
     ![](assets/others.png)
 
-  **Note:To learn more about DevOps visit [DevOps Roadmap](https://roadmap.sh/devops)**
 
 
 **Note : I am not a Expert or GOD in IT sector. Just a normal geek exploring things, stuffs and want to help people who have been suffering like me ! Feel fee to contribute to enrich our knowledge.**
