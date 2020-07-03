@@ -9,7 +9,7 @@ It's not a roadmap which you should follow and will make you GOD in IT sector. I
 
 **These `X year Y semester` are just for remembering that you can give `Z` months to know these things well though it can vary from person to person and I have just tried to relate these things and time with our Varsity Syllabus and curriculum !**
 
-## First Year First Semester
+## First Year First Semester (means can take about 6 months)
 
 ![](assets/1_1.png)
 
@@ -34,7 +34,7 @@ Some links of Popular Online Judges are :
 - [Hackerrank](https://www.hackerrank.com)
 - [Hackerearth](https://www.hackerearth.com])
 
-## First Year Second Semester
+## First Year Second Semester (means can take about 6 months)
 
 - Learn Data Structure and Algorithms
 
@@ -51,7 +51,7 @@ Some links of Popular Online Judges are :
 
     In our curriculam we have a make a GUI (Graphical User Interface) based Game(for Desktop) using C / C++ Library like SFML ,Opengl,graphic.h
 
-## Second Year
+## Second Year (means can take about 6 months or  one year)
 
 - Deep Drive into Competitve Programming  :
   [There is a pdf by @Shahriar(ICPC World Finalist | CSE,SUST) vai ,You can check it out.](assets/Dhaka-Regional-Raw-Syllabus-Sheet1.pdf)
