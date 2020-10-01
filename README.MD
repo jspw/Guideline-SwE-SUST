@@ -45,7 +45,9 @@ Some links of Popular Online Judges are :
 
 
   ![Basic Things](assets/basic_stuffs.png)
+  
 
+  [Learn Git](https://marklodato.github.io/visual-git-guide/index-en.html) 
 
 - Desktop Game :
 
