@@ -1,6 +1,6 @@
 ![](assets/logo.png)
 
-> Software Engineering Guideline,  Instpired by [web-developer-roadmap.](https://github.com/kamranahmedse/developer-roadmap)
+> Software Engineering Guideline,  Inspired by [web-developer-roadmap.](https://github.com/kamranahmedse/developer-roadmap)
 
 We are studying Software Engineering or Related subjects but some of us don't know what we are studying or don't have a guideline or don't know how vast the Software Engineering or IT sector is or We just don't know which path we should choose. **Forget choosing path , even we don't know what are the options!**
 So I have tried to give some informations and introduce with terminologies which are related to Software Engineering and IT and can help to know our options and choose them properly!
@@ -9,7 +9,7 @@ It's not a roadmap which you should follow and will make you GOD in IT sector. I
 
 **These `X year Y semester` are just for remembering that you can give `Z` months to know these things well though it can vary from person to person and I have just tried to relate these things and time with our Varsity Syllabus and curriculum !**
 
-## First Year First Semester
+## First Year First Semester (means can take about 6 months)
 
 ![](assets/1_1.png)
 
@@ -34,7 +34,7 @@ Some links of Popular Online Judges are :
 - [Hackerrank](https://www.hackerrank.com)
 - [Hackerearth](https://www.hackerearth.com])
 
-## First Year Second Semester
+## First Year Second Semester (means can take about 6 months)
 
 - Learn Data Structure and Algorithms
 
@@ -53,7 +53,7 @@ Some links of Popular Online Judges are :
 
     In our curriculam we have a make a GUI (Graphical User Interface) based Game(for Desktop) using C / C++ Library like SFML ,Opengl,graphic.h
 
-## Second Year
+## Second Year (means can take about 6 months or  one year)
 
 - Deep Drive into Competitve Programming  :
   [There is a pdf by @Shahriar(ICPC World Finalist | CSE,SUST) vai ,You can check it out.](assets/Dhaka-Regional-Raw-Syllabus-Sheet1.pdf)
@@ -117,10 +117,14 @@ Some links of Popular Online Judges are :
 
 
     ![](assets/DS.png)
+    
+    
+    **To learn more visit [How does a total beginner start to learn machine learning if they have some knowledge of programming languages?](https://www.quora.com/How-does-a-total-beginner-start-to-learn-machine-learning-if-they-have-some-knowledge-of-programming-languages/answer/Nisarg-Dave-17?ch=99&share=c49fec6c&srid=3l2Gx&fbclid=IwAR1x6Q3jjjSwp9vCscIevQCT74Gu9_3T4d_sPI0mySDe7wBybsajCG5d4ls)**
 
     **Note : The are some online judges where they arrange ML contests:**
     - [Kaggle](https://www.kaggle.com/)
     - [Hackerearth](https://www.hackerearth.com/challenges/)
+ 
 
 
 - ### Others (to be added) :
@@ -131,6 +135,6 @@ Some links of Popular Online Judges are :
   **Note:To learn more about DevOps visit [DevOps Roadmap](https://roadmap.sh/devops)**
 
 
-**Note : I am not a Expert or GOD in IT sector. Just a normal geek exploring things, stuffs and want to help people who have been suffering like me ! Feel fee to contribute to enrich our knowledge.**
+**Note : I am not a Expert or GOD in IT sector. Just a normal geek exploring things, stuffs and want to help people who have been suffering like me ! Feel free to contribute to enrich our knowledge.**
 
-- Contributions : [Main XML File for Draw.io](https://drive.google.com/file/d/1p-rENmOOQ5x_pAISXUDn3W_tE4j0R_f3/view?usp=sharing)
+- #### Contributions : [Main XML File for Draw.io](https://drive.google.com/file/d/1p-rENmOOQ5x_pAISXUDn3W_tE4j0R_f3/view?usp=sharing) You can edit file and export the selected part as png and add in the repo.
